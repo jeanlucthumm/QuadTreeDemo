@@ -12,6 +12,7 @@ This program is a demonstration of a quad tree and a visualisation of its subdiv
 ### Compiling and Running
 Navigate to the project directory. First you must compile the java classes:
 `javac spaceindexer/*.java`
+
 Then simply run the program:
 `java spaceindexer.Main`
 
